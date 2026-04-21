@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mahisha 👋
 
-<!--
-**M-A-H-I-S-H-A/M-A-H-I-S-H-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student  
+🏆 CodHer'26 Hackathon Winner  
+💡 Passionate about building real-world AI systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- GuardianEye – AI monitoring system using computer vision  
+- VidDoc – AI chatbot (LLM + non-LLM)  
+- Fund My Future – Scholarship platform  
+- NLP Toxic Message Detection  
+
+---
+
+## 🛠 Tech Stack
+Python | Machine Learning | NLP | Azure | React | SQL  
+
+---
+
+## 📫 Contact
+📧 mahisha1302@gmail.com
